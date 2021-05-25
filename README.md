@@ -1,4 +1,4 @@
-### Hello, all!
+### Hello!
 
 Currently a geographic data scientist with the CDRC and GDSL at the University of Liverpool. 
 
